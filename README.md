@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">KOUSHIK PAUL!</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Python+Developer;Data+Science+Explorer+%7C+Web+Developer;Passionate+About+Building+and+Solving+Real+Problems;Always+Learning+New+Tech+%26+Growing+Everyday" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Python+Developer;Data+Science+Explorer+%7C+Web+Developer;Turning+Ideas+Into+Intelligent+Systems;Always+Learning+New+Tech+%26+Growing+Everyday" alt="Typing Animation" />
 </p>
 
 ---
