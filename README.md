@@ -73,9 +73,13 @@ Open to working on —
 
 ---
 
-### 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/snake.svg)
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/dist/snake.svg" alt="Snake animation" />
+</p>
+
 
 
 ---
