@@ -1,38 +1,46 @@
-# 👋 Hey, I'm Koushik Paul  
+# 👋 Hey there, I'm Koushik Paul!  
 
-💻 **Python & Machine Learning Developer**  
-🧠 Focused on NLP, Deep Learning, and Open Source  
-🎯 Preparing for Google Summer of Code 2026  
+🚀 **AI & ML Enthusiast | Data Science Learner | Python Developer**  
 
----
-
-### 🧩 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎓 B.Tech CSE (AIML) @ Netaji Subhash Engineering College, Kolkata  
+💡 Passionate about solving problems through Machine Learning, NLP & Data-driven systems  
+💻 Building projects in AI | Web Dev | Open Source  
 
 ---
 
-### 📊 GitHub Stats  
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=radical)
+## 🧠 Skills & Technologies
+**Languages:** Python, C, C++, SQL  
+**ML/AI:** Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch  
+**Web:** HTML, CSS, Flask  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+**Areas of Interest:** Generative AI, Data Science, NLP  
 
 ---
 
-### 🚀 Projects  
-- 🧠 [AI NLP Project](#) – Working on Natural Language Processing  
-- 🤖 [Deep Learning Practice](#) – Exploring TensorFlow & PyTorch  
-- 🌍 [Open Source Contributions](#) – Active participant in OSS projects  
+## 📈 GitHub Stats
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me  
-📍 Kolkata, West Bengal, India  
-📧 [paulk7428@gmail.com](mailto:paulk7428@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/koushik-paul-35673b321)
+## 🧩 Featured Projects
+🔹 [AI Chatbot using NLP](https://github.com/YOUR_USERNAME/AI-Chatbot)  
+🔹 [Movie Recommendation System](https://github.com/YOUR_USERNAME/Movie-Recommender)  
+🔹 [Data Cleaning Automation Tool](https://github.com/YOUR_USERNAME/Data-Cleaning)
 
 ---
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KoushikPaul-blue)](https://www.linkedin.com/in/YOUR_LINK/)  
+[![Gmail](https://img.shields.io/badge/Email-koushikpaul47@gmail.com-red)](mailto:koushikpaul47@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://YOUR_PORTFOLIO_LINK)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+
+---
+
+[![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
