@@ -1,91 +1,81 @@
-<h1 align="center">👋 Hello World, I'm KOUSHIK PAUL!</h1>
+<!-- 💫 Koushik Paul GitHub Profile -->
 
-<h3 align="center">💻 AI/ML Enthusiast | 🐍 Python Developer | 📊 Data Science Explorer | 🌐 Web Developer</h3>
+<h1 align="center">👋 Hello World, I'm <span style="color:#00FFFF;">KOUSHIK PAUL!</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Learning+AI+and+Machine+Learning;Passionate+about+Building+and+Solving+Real+Problems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%7C+Python+Developer;Data+Science+Explorer+%7C+Web+Developer;Passionate+About+Building+and+Solving+Real+Problems;Always+Learning+New+Tech+%26+Growing+Everyday" alt="Typing Animation" />
 </p>
 
+---
+
+### 🧠 About Me
+- 💻 **B.Tech CSE (AI & ML)** student at *Netaji Subhash Engineering College, Kolkata.*
+- 🔍 Passionate about **AI, Data Science, and Web Development.**
+- ⚡ Love exploring **real-world problems** and building impactful tech solutions.
+- 📈 Constantly improving my skills to reach **top-tier MNCs** like *Google, Microsoft, Amazon.*
+
+---
+
+### 💡 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KoushikPaul-git&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=tokyonight&card_width=400" width="400" height="225" alt="Koushik's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=tokyonight&card_width=400" width="400" height="225" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikPaul-git&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🔥 About Me  
-I’m a passionate **AI & Machine Learning Enthusiast** currently pursuing **B.Tech in CSE (AIML)** at  
-🎓 *Netaji Subhash Engineering College, Kolkata*  
+### 🌐 Connect with Me
 
-I love working on ideas that merge **AI, automation, and data** to make intelligent systems smarter.  
-Always curious, always learning, and always building!
-
----
-
-### 🧠 Skills & Technologies  
-
-- 🐍 **Programming Languages:** Python, C, C++, SQL  
-- 🤖 **AI/ML:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
-- 💡 **Data Science:** Data Cleaning, Feature Engineering, EDA, Model Building  
-- 🌐 **Web Development:** HTML, CSS, Flask  
-- ⚙️ **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
-- 📈 **Areas of Interest:** Machine Learning, Deep Learning, NLP, Generative AI, Data Analytics  
-
----
-
-### 🌱 Currently Learning  
-
-- ⚡ Deep Learning with PyTorch  
-- 🧩 Natural Language Processing  
-- 🧠 Generative AI and LLMs  
-- 🧰 Open Source Contributions for GSoC 2026  
-- 🌐 Full Stack AI Integration (Flask + ML Models)
-
----
-
-### 🚀 Featured Projects  
-
-- 🤖 [AI Chatbot using NLP](https://github.com/KoushikPaul-git/AI-Chatbot)  
-- 🎬 [Movie Recommendation System](https://github.com/KoushikPaul-git/Movie-Recommender)  
-- 📊 [Data Cleaning Automation Tool](https://github.com/KoushikPaul-git/Data-Cleaning)  
-- 🌐 [Portfolio Website](https://github.com/KoushikPaul-git/Portfolio)  
-
----
-
-### 💡 Fun Fact  
-> “I believe AI won’t replace people — but people who understand AI will replace people who don’t.”
-
----
-
-### 🌐 Connect with Me  
 <p align="center">
-<a href="www.linkedin.com/in/koushik-paul-35673b321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:paulk7428@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/KoushikPaul-git" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/_koushikpaul_xd?igsh=MXRmZ3Z2MnJmMjd0Nw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode,tensorflow,pytorch,sklearn,mysql,figma,linux" />
+  <a href="https://github.com/KoushikPaul-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:paulk74282@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_koushikpaul_xd?igsh=MXRmZ3Z2MnJmMjd0Nw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/snake.svg" />
+  <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-<h3 align="center">⭐ “Keep Learning. Keep Building. Keep Growing.” ⭐</h3>
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul-git&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"/>
+</p>
+
+---
+
+### ⚙️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KoushikPaul-git&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+<h3 align="center">🔥 “Dream Big, Work Hard, Stay Humble.” 🔥</h3>
+
