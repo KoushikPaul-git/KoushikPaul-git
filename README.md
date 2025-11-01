@@ -3,7 +3,7 @@
 <h3 align="center">💻 AI/ML Enthusiast | 🐍 Python Developer | 📊 Data Science Explorer | 🌐 Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Learning+AI+and+Machine+Learning; Passionate+about+Building+and+Solving+Real+Problems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Learning+AI+and+Machine+Learning;Passionate+about+Building+and+Solving+Real+Problems!" alt="Typing SVG" />
 </p>
 
 <p align="center">
