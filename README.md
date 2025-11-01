@@ -66,10 +66,10 @@ Always curious, always learning, and always building!
 
 ### 🌐 Connect with Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/koushik-paul" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:koushikpaul47@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/koushik-paul-35673b321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:paulk7428@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/KoushikPaul-git" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_koushikpaul_xd?igsh=MXRmZ3Z2MnJmMjd0Nw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
