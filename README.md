@@ -1,63 +1,74 @@
-## 🔥 About Me  
+<h1 align="center">👋 Hello World, I'm KOUSHIK PAUL!</h1>
 
-I’m **Koushik Paul**, a passionate **AI/ML Enthusiast**, **Python Developer**, and **Data Science Explorer** dedicated to transforming ideas into intelligent, data-driven systems.  
-I blend logic with creativity — designing, developing, and deploying scalable solutions that bridge innovation and impact.  
+<h3 align="center">💻 AI/ML Enthusiast | 🐍 Python Developer | 📊 Data Science Explorer | 🌐 Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Intelligent+Systems;Always+Building,+Always+Learning;AI+%7C+ML+%7C+Python+%7C+Web+Dev" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Building+AI+That+Makes+an+Impact;Turning+Logic+Into+Intelligence" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KoushikPaul-git&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### ⚙️ What I Do
+## 🧰 Tech Stack  
 
-- 🧠 **Artificial Intelligence & Machine Learning** — Working with Python, TensorFlow, PyTorch, and Scikit-learn to build smart predictive systems  
-- 🧩 **Data Science & Analytics** — Exploring data pipelines using Pandas, NumPy, Matplotlib, Seaborn, and Power BI  
-- 🐍 **Python Development** — Crafting automation scripts, APIs, and efficient backend logic with Flask, FastAPI, and Django  
-- 🌐 **Web Development** — Creating clean, responsive web apps using HTML, CSS, JS, React, and TailwindCSS  
-- ☁️ **Cloud & DevOps** — Exploring AWS, Docker, and CI/CD for scalable deployments  
-- 📊 **Database Design** — Working with MySQL, MongoDB, and PostgreSQL for secure, optimized data management  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,html,css,js,react,nodejs,flask,django,fastapi,mysql,mongodb,postgres,aws,docker,git,github,vscode,linux" />
+</p>
 
 ---
 
-### 🌱 Currently Learning
+## 🔥 About Me  
 
-- 🤖 **Advanced AI/ML** — Deep Learning, NLP, and Generative AI applications  
-- ⚛ **Frontend Frameworks** — React.js, Next.js, and dynamic UI design principles  
-- ☁️ **MLOps & Deployment** — Docker, Kubernetes, AWS, and API productionization  
-- 📊 **Data Engineering** — Building pipelines, ETL systems, and dashboards  
+I’m **Koushik Paul**, a driven **AI/ML & Data Science Explorer** passionate about using technology to **solve real-world problems**.  
+I thrive on challenges that push the limits of creativity, logic, and innovation — whether it’s building predictive models, crafting web apps, or automating workflows.  
 
 ---
 
-### 🤝 Collaboration Interests
+### ⚙️ What I Do  
 
-I’m open to collaborating on:  
-- AI/ML projects or Python automation tools  
-- Web applications and backend APIs  
+- 🧠 **Artificial Intelligence & Machine Learning** — Developing intelligent systems using Python, TensorFlow, and PyTorch  
+- 📊 **Data Science & Analytics** — Visualizing data insights through Pandas, NumPy, Matplotlib, and Power BI  
+- 🌐 **Web Development** — Creating modern, responsive apps using React, Node.js, and TailwindCSS  
+- ☁️ **Cloud & DevOps** — Exploring AWS, Docker, and CI/CD to scale projects efficiently  
+- 🗄 **Database Management** — Working with MySQL, PostgreSQL, and MongoDB for secure data flow  
+- ⚙️ **Automation & APIs** — Designing powerful automation scripts and API-driven systems with Flask and FastAPI  
+
+---
+
+### 🌱 Currently Learning  
+
+- 🤖 Deep Learning, NLP, and Generative AI  
+- ⚛ Modern Frontend Development (React, Next.js, Tailwind)  
+- ☁️ MLOps (Docker, AWS, and CI/CD)  
+- 📊 Data Engineering (ETL pipelines and dashboards)  
+
+---
+
+### 🤝 Collaboration Interests  
+
+Open to working on —  
+- AI/ML projects or automation tools  
+- Data-driven web apps  
 - Open-source contributions  
-- Innovative student or startup projects  
+- Innovation-focused student/startup projects  
 
 ---
 
 ### 📫 Reach Me At  
 
 - 📧 **Email:** paulk74282@gmail.com  
-- 🌐 **GitHub:** [KoushikPaul-git](https://github.com/KoushikPaul-git)  
 - 📸 **Instagram:** [@_koushikpaul_xd](https://www.instagram.com/_koushikpaul_xd)  
+- 💻 **GitHub:** [KoushikPaul-git](https://github.com/KoushikPaul-git)  
 
 ---
 
-### ⚡ Fun Fact  
-
-> I believe every line of code should **either solve a problem or inspire someone to build further**.  
-> Currently building projects that combine **AI, Data Science, and Real-World Impact**.  
-
----
-
-### 🧰 Tech Stack  
+## ⚡ Fun Fact  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,html,css,js,react,nodejs,flask,django,fastapi,mysql,mongodb,postgres,git,github,aws,docker,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Innovation+Begins+Where+Comfort+Ends.;Dream+Big,+Code+Bigger.;Consistency+Beats+Motivation+Every+Time.;Build+Something+That+Builds+Others." alt="Motivational Typing" />
 </p>
 
 ---
@@ -67,3 +78,20 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=radical" width="400"/>
+</p>
+
+---
+
+### 🔥 Activity Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
+
+---
