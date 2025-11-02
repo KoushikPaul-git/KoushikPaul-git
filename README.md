@@ -80,7 +80,8 @@ Open to working on —
   <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/dist/snake.svg" alt="Snake animation" />
 </p>
 
-
+---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
 
 ---
 
