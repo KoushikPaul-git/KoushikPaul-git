@@ -94,6 +94,15 @@ Open to working on —
 </p>
 
 ---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul-git&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"/>
+</p>
+
+---
+
 ### 🔥 Activity Graph  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
