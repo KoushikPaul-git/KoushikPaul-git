@@ -81,7 +81,11 @@ Open to working on —
 </p>
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=radical" width="400"/>
+</p>
 
 ---
 
