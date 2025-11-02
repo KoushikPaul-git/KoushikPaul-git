@@ -82,15 +82,18 @@ Open to working on —
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikPaul-git&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
 ### 🔥 Activity Graph  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
