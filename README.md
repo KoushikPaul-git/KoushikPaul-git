@@ -41,7 +41,7 @@ I thrive on challenges that push the limits of creativity, logic, and innovation
 ### 🌱 Currently Learning  
 
 - 🤖 Deep Learning, NLP, and Generative AI  
-- ⚛ Modern Frontend Development (React, Next.js, Tailwind)  
+- ⚛ Modern Backend Development (SQL, AWS, MongoDB , MYSQL)  
 - ☁️ MLOps (Docker, AWS, and CI/CD)  
 - 📊 Data Engineering (ETL pipelines and dashboards)  
 
