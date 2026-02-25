@@ -1,110 +1,79 @@
-<h1 align="center">👋 Hello World, I'm KOUSHIK PAUL!</h1>
+<div align="center">
 
-<h3 align="center">💻 AI/ML Enthusiast | 🐍 Python Developer | 📊 Data Science Explorer | 🌐 Web Developer</h3>
+# Koushik Paul
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Building+AI+That+Makes+an+Impact;Turning+Logic+Into+Intelligence" alt="Typing Animation" />
+### AI/ML + Generative AI Learner • Python Enthusiast • Full Stack Development Learner
+
+<p>
+  <a href="mailto:paulk7428@gmail.com"><img src="https://img.shields.io/badge/Email-paulk7428%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/koushik-paul-35673b321"><img src="https://img.shields.io/badge/LinkedIn-Koushik%20Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KoushikPaul-git"><img src="https://img.shields.io/badge/GitHub-KoushikPaul--git-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Phone-8240945442-1f6feb?style=for-the-badge" alt="Phone" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KoushikPaul-git&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=840&lines=Building+with+logic%2C+creativity%2C+and+modern+technology;Focused+on+AI%2FML%2C+Generative+AI%2C+and+real-world+projects;Learning+full+stack+development+with+a+clean%2C+professional+mindset" alt="Typing animation" />
+
+</div>
 
 ---
 
-## 🧰 Tech Stack  
+## About Me
+I am **Koushik Paul** from Kolkata, India. I focus on building practical, technical projects and continuously improving my skills in modern software and intelligent systems.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,html,css,js,react,nodejs,flask,django,fastapi,mysql,mongodb,postgres,aws,docker,git,github,vscode,linux" />
-</p>
-
----
-
-## 🔥 About Me  
-
-I’m **Koushik Paul**, a driven **AI/ML & Data Science Explorer** passionate about using technology to **solve real-world problems**.  
-I thrive on challenges that push the limits of creativity, logic, and innovation — whether it’s building predictive models, crafting web apps, or automating workflows.  
+I am currently learning:
+- **AI/ML + Generative AI**
+- **Full Stack Development**
 
 ---
 
-### ⚙️ What I Do  
-
-- 🧠 **Artificial Intelligence & Machine Learning** — Developing intelligent systems using Python, TensorFlow, and PyTorch  
-- 📊 **Data Science & Analytics** — Visualizing data insights through Pandas, NumPy, Matplotlib, and Power BI  
-- 🌐 **Web Development** — Creating modern, responsive apps using React, Node.js, and TailwindCSS  
-- ☁️ **Cloud & DevOps** — Exploring AWS, Docker, and CI/CD to scale projects efficiently  
-- 🗄 **Database Management** — Working with MySQL, PostgreSQL, and MongoDB for secure data flow  
-- ⚙️ **Automation & APIs** — Designing powerful automation scripts and API-driven systems with Flask and FastAPI  
+## Education Snapshot
+- Completed **Madhyamik** from the West Bengal Board
+- Completed **Higher Secondary (HS)** from the West Bengal Board
+- **Qualified JEE Advanced**
 
 ---
 
-### 🌱 Currently Learning  
+## Technical Profile
 
-- 🤖 Deep Learning, NLP, and Generative AI  
-- ⚛ Modern Backend Development (SQL, Flask, MongoDB , MYSQL)  
-- ☁️ MLOps (Docker, AWS, and CI/CD)  
-- 📊 Data Engineering (ETL pipelines and dashboards)  
+### Core Skills
+- **Python**
+- **NumPy, Pandas, Matplotlib**
+- **HTML**
+- **Git & GitHub (ongoing practice)**
 
----
+### Current Technical Direction
+- Machine learning fundamentals and model experimentation
+- Generative AI concepts and practical use-cases
+- Full stack workflow and project building
 
-### 🤝 Collaboration Interests  
-
-Open to working on —  
-- AI/ML projects or automation tools  
-- Data-driven web apps  
-- Open-source contributions  
-- Innovation-focused student/startup projects  
-
----
-
-### 📫 Reach Me At  
-
-- 📧 **Email:** paulk74282@gmail.com  
-- 📸 **Instagram:** [@_koushikpaul_xd](https://www.instagram.com/_koushikpaul_xd)  
-- 💻 **GitHub:** [KoushikPaul-git](https://github.com/KoushikPaul-git)  
-
----
-
-## ⚡ Fun Fact  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Innovation+Begins+Where+Comfort+Ends.;Dream+Big,+Code+Bigger.;Consistency+Beats+Motivation+Every+Time.;Build+Something+That+Builds+Others." alt="Motivational Typing" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" alt="Skills" />
 </p>
 
 ---
 
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/KoushikPaul-git/KoushikPaul-git/blob/output/dist/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikPaul-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikPaul-git&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikPaul-git&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## Robotics Projects
+I have built the following robotics-based projects:
+- **Automated Traffic Signal System**
+- **Smart Dustbin**
+- **Smart Blind Helping Stick**
+- **Smart Blind Helping Glasses**
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoushikPaul-git&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"/>
-</p>
+## Creative Achievements
+- Winner of **multiple prizes** in drawing and art competitions
 
 ---
 
-### 🔥 Activity Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikPaul-git&theme=tokyo-night)
+## Portfolio Style
+This profile is intentionally designed with a **minimal, modern, and professional** look:
+- Clean layout and readable content hierarchy
+- Subtle motion elements for visual polish
+- Focus on technical strengths and real project work
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f6feb&height=120&section=footer" alt="footer" />
+</div>
